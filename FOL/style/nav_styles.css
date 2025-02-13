@@ -1,0 +1,17 @@
+nav {
+    background-color:rgb(202, 202, 202);
+    padding: 10px 15px;
+    text-align: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+nav a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+a {
+    color: steelblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
