@@ -1,0 +1,6 @@
+You can link multiple style sheets to the same html code,
+because of this I divided up the style sheet as some sections similar arguments use different colors
+/ layouts compared to the rest of the files.
+
+tldr; main worry focus for original style sheet was homepage,
+divided up for linking with other style sheets

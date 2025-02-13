@@ -1,0 +1,4 @@
+'spane_homepage_warn' is for the <span> in homepage. Don't use it anywhere else.
+
+Once again, only use the 'span_homepage_warn' for homepage, and vice versa.
+Don't use it for anything other section of the website.
