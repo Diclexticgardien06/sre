@@ -1,0 +1,21 @@
+Equipment ID,Type of Equipment,Name,Cost per item,Total cost,Number in storage?
+1,Camera,Sony FX30 Cinema Line,"2,100","8,400",4
+2,Camera,Sony A7 IV Full-Frame Mirrorless,"2,399","7,197",3
+3,Lens,Sony FE 24-105mm f/4 G OSS,"1,099","2,198",2
+4,Lens,Sony FE 50mm f/1.8,169,338,2
+5,Lens,Sony FE 85mm f/1.8,549,549,1
+6,Lens,Sony FE 16-35mm f/4 ZA OSS,"1,300","1,300",1
+7,Tripod,Manfrotto 190XPRO4 /w Ball Head,249,"1,743",7
+8,Memory Card,SanDisk Extreme PRO 128GB SDXC UHS-I,45,720,16
+9,Audio,R�DE Wireless GO II Microphone Systems,259,777,3
+10,Audio,R�DE VideoMic NTG Shotgun Microphones,249,747,3
+11,Lighting,Godox SL60W LED Video Lights,139,556,4
+12,Lighting,Softboxes with Bowens Mount,80,320,4
+13,Accessories,Camera Bags (Manfrotto Advanced Gear Backpack),125,625,5
+14,Accessories,Spare Batteries for Sony Cameras (NP-FZ100),65,650,10
+15,Accessories,Battery Chargers,70,280,4
+16,Accessories,Lens Cleaning Kits,20,40,2
+17,Accessories,External Hard Drives,149,298,2
+18,Additionals,Green Screen Kit with Stand,150,150,1
+19,Additionals,Reflector Kits,50,100,2
+3,"{'Equipment ID': '2', 'Type of Equipment': 'Camera', 'Name': 'Sony A7 IV Full-Frame Mirrorless', 'Cost per item': '2,399', 'Total cost': '7,197', 'Number in storage?': '3'}","{'Equipment ID': '3', 'Type of Equipment': 'Lens', 'Name': 'Sony FE 24-105mm f/4 G OSS', 'Cost per item': '1,099', 'Total cost': '2,198', 'Number in storage?': '2'}","{'Equipment ID': '4', 'Type of Equipment': 'Lens', 'Name': 'Sony FE 50mm f/1.8', 'Cost per item': '169', 'Total cost': '338', 'Number in storage?': '2'}","{'Equipment ID': '5', 'Type of Equipment': 'Lens', 'Name': 'Sony FE 85mm f/1.8', 'Cost per item': '549', 'Total cost': '549', 'Number in storage?': '1'}","{'Equipment ID': '6', 'Type of Equipment': 'Lens', 'Name': 'Sony FE 16-35mm f/4 ZA OSS', 'Cost per item': '1,300', 'Total cost': '1,300', 'Number in storage?': '1'}","{'Equipment ID': '7', 'Type of Equipment': 'Tripod', 'Name': 'Manfrotto 190XPRO4 /w Ball Head', 'Cost per item': '249', 'Total cost': '1,743', 'Number in storage?': '7'}","{'Equipment ID': '8', 'Type of Equipment': 'Memory Card', 'Name': 'SanDisk Extreme PRO 128GB SDXC UHS-I', 'Cost per item': '45', 'Total cost': '720', 'Number in storage?': '16'}","{'Equipment ID': '9', 'Type of Equipment': 'Audio', 'Name': 'R�DE Wireless GO II Microphone Systems', 'Cost per item': '259', 'Total cost': '777', 'Number in storage?': '3'}","{'Equipment ID': '10', 'Type of Equipment': 'Audio', 'Name': 'R�DE VideoMic NTG Shotgun Microphones', 'Cost per item': '249', 'Total cost': '747', 'Number in storage?': '3'}","{'Equipment ID': '11', 'Type of Equipment': 'Lighting', 'Name': 'Godox SL60W LED Video Lights', 'Cost per item': '139', 'Total cost': '556', 'Number in storage?': '4'}","{'Equipment ID': '12', 'Type of Equipment': 'Lighting', 'Name': 'Softboxes with Bowens Mount', 'Cost per item': '80', 'Total cost': '320', 'Number in storage?': '4'}","{'Equipment ID': '13', 'Type of Equipment': 'Accessories', 'Name': 'Camera Bags (Manfrotto Advanced Gear Backpack)', 'Cost per item': '125', 'Total cost': '625', 'Number in storage?': '5'}","{'Equipment ID': '14', 'Type of Equipment': 'Accessories', 'Name': 'Spare Batteries for Sony Cameras (NP-FZ100)', 'Cost per item': '65', 'Total cost': '650', 'Number in storage?': '10'}","{'Equipment ID': '15', 'Type of Equipment': 'Accessories', 'Name': 'Battery Chargers', 'Cost per item': '70', 'Total cost': '280', 'Number in storage?': '4'}","{'Equipment ID': '16', 'Type of Equipment': 'Accessories', 'Name': 'Lens Cleaning Kits', 'Cost per item': '20', 'Total cost': '40', 'Number in storage?': '2'}","{'Equipment ID': '17', 'Type of Equipment': 'Accessories', 'Name': 'External Hard Drives', 'Cost per item': '149', 'Total cost': '298', 'Number in storage?': '2'}","{'Equipment ID': '18', 'Type of Equipment': 'Additionals', 'Name': 'Green Screen Kit with Stand', 'Cost per item': '150', 'Total cost': '150', 'Number in storage?': '1'}","{'Equipment ID': '19', 'Type of Equipment': 'Additionals', 'Name': 'Reflector Kits', 'Cost per item': '50', 'Total cost': '100', 'Number in storage?': '2'}"
